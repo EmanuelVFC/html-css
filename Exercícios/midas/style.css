@@ -42,6 +42,11 @@
     --bgcorpo: #f0eadb;
 }
 
+.fotos img{
+    display: block;
+    margin: 20px auto;
+}
+
 header{
     background-color: var(--preto);
     padding: 10px;
@@ -102,6 +107,7 @@ main h2{
     background-color: var(--preto);
     color: var(--amarelo);
     padding: 5px;
+    margin-bottom: 20px;
     text-align: center;
 }
 
