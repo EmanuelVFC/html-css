@@ -100,19 +100,19 @@ strong{
 }
 
 #img01{
-    background-image: url(images/bastiat.png);
+    background-image: url(../images/bastiat.png);
     background-repeat: no-repeat;
     background-position: left top;
 }
 
 #img02{
-    background-image: url(images/justice.png);
+    background-image: url(../images/justice.png);
     background-repeat: no-repeat;
     background-position: right center;
 }
 
 #img03{
-    background-image: url(images/bastiat-livro.png);
+    background-image: url(../images/bastiat-livro.png);
     background-repeat: no-repeat;
     background-position: left center;
 }
